@@ -1,0 +1,38 @@
+Java基础    JavaSe
+
+Java程序：***.java
+
+Java后端技术体系HSP8
+Java的应用
+网站，app
+
+Java历史
+1995年sun公司发表Java第一个版本，甲骨文公司收购，Java之父——詹姆斯·高斯林 （James Gosling）
+java-8 java-11 java-15
+Java技术体系平台
+    Java SE标准版
+    Java EE企业版
+    Java ME小型版（用的少了）
+
+Java的主要特点
+    面向对象的OOP
+    健壮的，Java程序健壮，强类型机制、异常处理、垃圾自动收集
+    跨平台性    编程时，写.java文件，编译然后得到.class文件，其在各个平台其都可以运行Win、Linux(跨平台性)java虚拟机
+    解释型语言  编译后还需要解释器才可以执行
+
+Java开发工具
+Sublime Text
+IDEA
+eclipse
+  
+Java运行机制——Java虚拟机JVM
+.java  ->   .class  ->   JVM
+      编译器      java虚拟机JVM上运行
+      javac         java
+同一个文件，编译成.class文件后，可以在各个操作系统上的JVM上运行
+
+JDK:Java开发工具包
+JDK=JRE+java开发工具（java,javac）
+JRE:Java运行环境
+JRE=JVM+Java的核心类库
+有JRE就可以运行.class文件
